@@ -1,0 +1,27 @@
+# Sillok watchdog. Sillok writes this file; do not edit it here.
+# It fails, and GitHub mails the owner, when the daily run has gone quiet or
+# has had a problem several times in a row. It uses no third-party action.
+name: watch
+on:
+  schedule:
+    - cron: "0 0,12 * * *" # 09:00 and 21:00 in Korea
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: Branch to read the status from (for testing the watchdog)
+        default: main
+permissions:
+  contents: read
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Read the status and judge it
+        env:
+          REF: ${{ inputs.ref }}
+        run: |
+          base="https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/${REF:-main}"
+          curl -fsS "${base}/status.json" -o status.json
+          curl -fsS "${base}/watch.py" -o watch.py
+          python3 watch.py status.json

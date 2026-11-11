@@ -1,0 +1,22 @@
+{"format":1,"labels":{"nav":"Publication sections"},"list":"other","version":"77ff9acff00e27e438daafc8bf980d33b8eaeaf5e4a00c03ad60d767df13cc01","sections":[
+{"id":"proceedings","label":"Conference Proceedings","items":[
+{"id":"W-JBKJ4T","text":["Mujin Cheon, Jay H Lee, ",["Dong-Yeun Koh","b"],", Calvin Tsay",["*","mark"]," (2025). EARL-BO: Reinforcement Learning for Multi-Step Lookahead, High-Dimensional Bayesian Optimization. ",["Proceedings of the 42nd International Conference on Machine Learning","i"],", 267, 10182-10198 ",["Source","a","https://proceedings.mlr.press/v267/cheon25a.html"]]}
+]},
+{"id":"preprints","label":"Preprints","items":[
+{"id":"W-64XXCW","text":["Injun Park, Sieun Kim, Junseong Kim, Karoline L Hebisch, Inhwan Park, Juhyeong You, Huiryung Heo, Aqil Jamal, Jinsu Kim",["*","mark"],", ",["Dong-Yeun Koh","b"],["*","mark"]," (2026). Solvent-Free Manufacturing of Electrified Structured Sorbents for Scalable Direct Air Capture. ",["ChemRxiv","i"]," ",["Source","a","https://doi.org/10.26434/chemrxiv.15000091/v1"]]},
+{"id":"W-2YD2C3","text":["Joon-Hyun Park, Mujin Cheon, Jeongsu Wi, ",["Dong-Yeun Koh","b"],["*","mark"]," (2025). BOOST: A Data-Driven Framework for the Automated Joint Selection of Kernel and Acquisition Functions in Bayesian Optimization. ",["arXiv","i"]," ",["Source","a","https://doi.org/10.48550/arxiv.2508.02332"]]},
+{"id":"W-36QCZ9","text":["Mujin Cheon, Jay H. Lee, ",["Dong-Yeun Koh","b"],", Calvin Tsay",["*","mark"]," (2024). EARL-BO: Reinforcement Learning for Multi-Step Lookahead, High-Dimensional Bayesian Optimization. ",["arXiv (Cornell University)","i"]," ",["Source","a","https://doi.org/10.48550/arxiv.2411.00171"]]}
+]},
+{"id":"commentary","label":"Perspectives, News & Views, Briefings","items":[
+{"id":"W-WFT775","text":[["Dong-Yeun Koh","b"],", Ryan P. Lively (2026). Crude oil turns cheap porous membrane into a sieve to refine itself without heat. ",["Nature","i"]," ",["Source","a","https://doi.org/10.1038/d41586-026-01896-9"]]},
+{"id":"W-71YYGX","text":["Hyeokjun Seo, ",["Dong-Yeun Koh","b"],["*","mark"]," (2022). Refining petroleum with membranes. ",["Science","i"],", 376(6597), 1053-1054 ",["Source","a","https://doi.org/10.1126/science.abq3186"]]},
+{"id":"W-CGG0HJ","text":[["Dong-Yeun Koh","b"],", Ryan P. Lively",["*","mark"]," (2015). Membranes at the limit. ",["Nature Nanotechnology","i"],", 10(5), 385-386 ",["Source","a","https://doi.org/10.1038/nnano.2015.77"]]}
+]},
+{"id":"workshops","label":"Conference Non-Main Track","items":[
+{"id":"W-XEFMAV","text":["Mujin Cheon, James Odgers, ",["Dong-Yeun Koh","b"],", Calvin Tsay (2026). How Many Initial Points Does Bayesian Optimization Need? ",["arXiv (Cornell University)","i"]," ",["Source","a","https://doi.org/10.48550/arxiv.2607.04356"]]}
+]},
+{"id":"contributions","label":"Contributions","items":[
+{"id":"W-KJYZQT","text":[["고동연","b"]," (2023). 탄소, 이제는 ‘제거’가 시급한 시대다. ",["집현네트워크","i"]," ",["Source","a","https://naver.me/I5486XLv"]]},
+{"id":"W-J0GJZC","text":[["고동연","b"],["*","mark"]," (2021). 선박 적용을 위한 소형 이산화탄소 포집 및 전환 시스템. ",["대한조선학회지","i"],", 58(1), 20-24 ",["Source","a","https://drive.google.com/file/d/1zV4Yg4fdtf6uvN-_xb5qt6R10MY6sgU1/view?usp=sharing"]]}
+]}
+]}
