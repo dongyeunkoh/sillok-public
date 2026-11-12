@@ -1,4 +1,4 @@
-{"format":1,"labels":{"nav":"Patent sections"},"list":"patents","version":"cea45d742189437ec046d6de3252e86f50d29b8b597a5c0ad7cfe845c01b3a94","sections":[
+{"format":1,"labels":{"nav":"Patent sections"},"list":"patents","version":"a97bca3e97dae304cee10c723f441eaa92f0df0de93d2df1a5721e26f3b20531","sections":[
 {"id":"registered","label":"Registered Patents","items":[
 {"id":"PA-3CH07V","text":[["전기화된 파이버 흡착제의 제조방법 및 전기 및 전자기 스윙 흡착 공정","b"],". 고동연, 이영훈, 아킬 자말, 김규남, 정진홍. KR 10-2546112 (registered 2023-06-16); WO 2023/068651 A1 (published); AU 2022368476 B2 (registered); CN 118450940 A (published); EP 4420772 A1 (published 2024-08-28); JP 7755741 B2 (registered 2025-10-07); SA 1120242080 (filed 2024-04-21); US 2024/0416278 A1 (published)."]},
 {"id":"PA-0MQCJD","text":[["미세조류 내 EPA의 고순도 연속 흡착분리 장치 및 이를 이용한 미세조류 내 EPA의 고순도 연속 흡착분리 방법","b"],". 장용근, 문성용, 고동연, 김수지, 조철연. KR 10-2768762 (registered 2025-02-12)."]},
@@ -27,6 +27,6 @@
 {"id":"PA-9H97DT","text":[["불소 함유 폐수 처리 시스템","b"],". 박대선, 고동연, 김인혁, 박지민, 김대옥. KR 10-2025-0117490 (published 2025-08-05)."]},
 {"id":"PA-C6T64X","text":[["폐수 처리 방법 및 폐수 처리 장치","b"],". 김대옥, 고동연, 김인혁, 장정운. KR 10-2024-0081139 (published 2024-06-07)."]},
 {"id":"PA-1Y3R93","text":[["미세다공성 폴리머 섬유 흡착제, 미세다공성 폴리머 섬유 흡착제를 포함한 흡착 모듈, 미세다공성 폴리머 섬유 흡착제를 포함한 흡착 모듈을 이용한 유기 오염 물질 제거 시스템","b"],". 김대옥, 고동연, 김규남, 황영은, 류성윤, 백경민. KR 10-2022-0046034 (published 2022-04-14)."]},
-{"id":"PA-96580D","text":[["기체를 주입하여 가스 하이드레이트로부터 메탄가스를 생산하는 방법","b"],". LEE, HUEN, KOH, DONG-YEUN. WO 2014/046343 A1 (published 2014-03-27)."]}
+{"id":"PA-96580D","text":[["기체를 주입하여 가스 하이드레이트로부터 메탄가스를 생산하는 방법","b"],". 이혼 (LEE, Huen), 고동연 (KOH, Dong-yeun). WO 2014/046343 A1 (published 2014-03-27)."]}
 ]}
 ]}
